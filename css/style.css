@@ -1,0 +1,33 @@
+hr.line-2 {
+
+    width: 80px;
+    height: 4px;
+    background-color: #B02A30;
+    opacity: 100%;
+    text-align: center;
+    margin: auto;
+
+}
+
+hr.line {
+    width: 80px;
+    height: 4px;
+    background-color: #B02A30;
+    opacity: 100%
+}
+.infographics{
+ 
+    margin: 50px 0;
+}
+.infographics .card-body-height{
+    min-height: 100px;
+    padding: 30px 20px;
+    border: none;
+   box-shadow: 5px 5px 40px gray;
+   border-bottom-left-radius: 10px;border-bottom-right-radius: 10px;
+}
+.infographics .card{border: none;}
+.infographics.card-img-top{border-radius: 10px;}
+.infographics .custom-card-title{
+    font-weight: bolder;
+}
